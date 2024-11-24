@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-mingw32-make"
+	BuildStamp="20241109-0411-Experimental"
+	Name="Quyen"
+	Generator="ctest-3.30.4"
+	CompilerName="C:/msys64/mingw64/bin/c++.exe"
+	CompilerVersion="14.2.0"
+	OSName="Windows"
+	Hostname="Quyen"
+	OSRelease=" Personal"
+	OSVersion=" (Build 22631)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString=""
+	VendorID="Unknown Manufacturer"
+	FamilyID="0"
+	ModelID="0"
+	ProcessorCacheSize="0"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="16719"
+	TotalPhysicalMemory="7503"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2096"
+	>
+	<Testing>
+		<StartDateTime>Nov 09 11:11 SE Asia Standard Time</StartDateTime>
+		<StartTestTime>1731125503</StartTestTime>
+		<TestList/>
+		<EndDateTime>Nov 09 11:11 SE Asia Standard Time</EndDateTime>
+		<EndTestTime>1731125503</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

@@ -1,0 +1,2 @@
+C:\msys64\mingw64\bin\ar.exe qc libopencv_sfml_example.a CMakeFiles/opencv_sfml_example.dir/opencv_sfml_example.cpp.obj
+C:\msys64\mingw64\bin\ranlib.exe libopencv_sfml_example.a

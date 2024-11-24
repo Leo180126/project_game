@@ -1,0 +1,3 @@
+C:/Users/84333/projects/Opencv_SFML_example/out/build/GCC 14.2.0 x86_64-w64-mingw32 (mingw64)/CMakeFiles/main.dir
+C:/Users/84333/projects/Opencv_SFML_example/out/build/GCC 14.2.0 x86_64-w64-mingw32 (mingw64)/CMakeFiles/edit_cache.dir
+C:/Users/84333/projects/Opencv_SFML_example/out/build/GCC 14.2.0 x86_64-w64-mingw32 (mingw64)/CMakeFiles/rebuild_cache.dir

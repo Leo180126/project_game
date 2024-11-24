@@ -1,0 +1,5 @@
+C:/Users/84333/projects/Opencv_SFML_example/build/CMakeFiles/main.dir
+C:/Users/84333/projects/Opencv_SFML_example/build/CMakeFiles/package.dir
+C:/Users/84333/projects/Opencv_SFML_example/build/CMakeFiles/package_source.dir
+C:/Users/84333/projects/Opencv_SFML_example/build/CMakeFiles/edit_cache.dir
+C:/Users/84333/projects/Opencv_SFML_example/build/CMakeFiles/rebuild_cache.dir

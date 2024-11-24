@@ -1,0 +1,3 @@
+fieldTexture=C:\\Users\\84333\\projects\\Opencv_SFML_example\\src\\fieldTexture.png
+snakeTexture=C:\\Users\\84333\\projects\\Opencv_SFML_example\\src\\snakeTexture.png
+foodTexture=C:\\Users\\84333\\projects\\Opencv_SFML_example\\src\\foodTexture.png
